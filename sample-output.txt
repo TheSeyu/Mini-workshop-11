@@ -1,0 +1,16 @@
+========== HOA DON GIO HANG ==========
+- [Sach] Clean Code | Robert C. Martin | SL 2 | Don gia 180,000 | Thanh tien 360,000 VND
+
+[NHOM SAN PHAM] Combo van phong
+- [Dien tu] Wireless Mouse | Bao hanh: 12 thang | SL 1 | Don gia 250,000 | Thanh tien 250,000 VND
+
+[NHOM SAN PHAM] Phu kien di kem
+- [Quan ao] Basic T-Shirt | Kich co: L | SL 3 | Don gia 120,000 | Thanh tien 360,000 VND
+
+--------------------------------------
+Tong tien hang : 970.000 VND
+Phi van chuyen : 90.000 VND
+Tien giam gia  : 102.500 VND
+--------------------------------------
+THANH TOAN     : 957.500 VND
+So thanh phan cap 1: 2
